@@ -34,23 +34,23 @@
     "node": ">=10"
   },
   "dependencies": {
-    "@sentry/node": "^5.5.0",
-    "commander": "^2.20.0",
-    "pify": "^4.0.1",
+    "@sentry/node": "^5.15.5",
+    "commander": "^5.1.0",
+    "pify": "^5.0.0",
     "pump": "^3.0.0",
     "split2": "^3.1.1",
     "through2": "^3.0.1"
   },
   "devDependencies": {
-    "@types/node": "^12.6.9",
+    "@types/node": "^13.13.5",
     "@types/pify": "^3.0.2",
     "@types/pump": "^1.1.0",
     "@types/split2": "^2.1.6",
     "@types/through2": "^2.0.34",
-    "@typescript-eslint/eslint-plugin": "^2.3.2",
-    "@typescript-eslint/parser": "^2.3.2",
-    "eslint": "^6.8.0",
-    "pino": "^5.13.1",
-    "typescript": "^3.6.3"
+    "@typescript-eslint/eslint-plugin": "^2.32.0",
+    "@typescript-eslint/parser": "^2.32.0",
+    "eslint": "^7.0.0",
+    "pino": "^6.2.1",
+    "typescript": "^3.8.3"
   }
 }
